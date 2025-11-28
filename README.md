@@ -1,7 +1,10 @@
+
+
+# ARCHIVE: See [spacecurve](https://github.com/cortesi/spacecurve) for the modern incarnation of this project.
+
+
 A collection of algorithms and visualisation tools related to space-filling
 curves.
-
-# See [binvis.io](http://binvis.io) for my more recent interactive binary visualisation tool
 
 # The Curves 
 
